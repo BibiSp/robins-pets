@@ -5,6 +5,9 @@ A list of Robin's pets
 + Simon
 + Alexander
 + Packer
++ Beauty
++ Beast
+
 
 
 
