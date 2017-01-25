@@ -4,5 +4,6 @@ Sable collie
 
 Lived to be 14 years old.
 
-Liked to eat apples.
+Liked to eat apples and almonds.
+
 
