@@ -8,9 +8,7 @@ Liked to eat apples and almonds and milkbones.
 
 Direct edit.
 
-Another edit after protecting.
 
-After enforcing pull requests.
 
 
 
